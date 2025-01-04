@@ -1,0 +1,264 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Understanding JSON",
+            "body": "JSON is a lightweight data-interchange format that's easy for humans to read and write, and easy for machines to parse and generate.",
+            "category": "Technology",
+            "tags": [
+                "Programming",
+                "Basics",
+                "JSON"
+            ],
+            "userId": 1,
+            "postedAt": 1735735200
+        },
+        {
+            "id": 2,
+            "title": "The Benefits of Learning Programming",
+            "body": "Programming teaches problem-solving, improves logical thinking, and opens up countless career opportunities.",
+            "category": "Education",
+            "tags": [
+                "Programming",
+                "Career",
+                "Skills"
+            ],
+            "userId": 1,
+            "postedAt": 1735821600
+        },
+        {
+            "id": 3,
+            "title": "Exploring Artificial Intelligence",
+            "body": "Artificial intelligence is transforming industries by automating processes and providing insights through data analysis.",
+            "category": "Technology",
+            "tags": [
+                "AI",
+                "Innovation",
+                "Automation"
+            ],
+            "userId": 2,
+            "postedAt": 1735908000
+        },
+        {
+            "id": 4,
+            "title": "Travel Tips for Beginners",
+            "body": "Traveling can be exciting but requires preparation. Start with a checklist and pack essentials to make your journey smooth.",
+            "category": "Travel",
+            "tags": [
+                "Travel",
+                "Tips",
+                "Lifestyle"
+            ],
+            "userId": 2,
+            "postedAt": 1735994400
+        },
+        {
+            "id": 5,
+            "title": "Healthy Eating Habits",
+            "body": "Adopt healthy eating by incorporating fruits, vegetables, and whole grains into your meals, and avoid processed foods.",
+            "category": "Health",
+            "tags": [
+                "Nutrition",
+                "Healthy Living",
+                "Diet"
+            ],
+            "userId": 3,
+            "postedAt": 1736080800
+        },
+        {
+            "id": 6,
+            "title": "The Rise of Remote Work",
+            "body": "Remote work is becoming increasingly popular as technology allows for greater flexibility and connectivity.",
+            "category": "Workplace",
+            "tags": [
+                "Remote Work",
+                "Career",
+                "Productivity"
+            ],
+            "userId": 3,
+            "postedAt": 1736167200
+        },
+        {
+            "id": 7,
+            "title": "Photography Basics",
+            "body": "Learn the fundamentals of photography, including lighting, composition, and camera settings.",
+            "category": "Photography",
+            "tags": [
+                "Basics",
+                "Tips",
+                "Creativity"
+            ],
+            "userId": 4,
+            "postedAt": 1736253600
+        },
+        {
+            "id": 8,
+            "title": "Top 10 Travel Destinations",
+            "body": "Explore the top 10 travel destinations that offer breathtaking views and unique cultural experiences.",
+            "category": "Travel",
+            "tags": [
+                "Destinations",
+                "Adventure",
+                "Guide"
+            ],
+            "userId": 4,
+            "postedAt": 1736340000
+        },
+        {
+            "id": 9,
+            "title": "Mastering Web Development",
+            "body": "Dive into the world of web development and learn how to build responsive and dynamic websites.",
+            "category": "Technology",
+            "tags": [
+                "Web Development",
+                "Programming",
+                "Design"
+            ],
+            "userId": 5,
+            "postedAt": 1736426400
+        },
+        {
+            "id": 10,
+            "title": "Mental Health Matters",
+            "body": "Taking care of your mental health is crucial for overall well-being and happiness.",
+            "category": "Health",
+            "tags": [
+                "Mental Health",
+                "Self-Care",
+                "Lifestyle"
+            ],
+            "userId": 5,
+            "postedAt": 1736512800
+        },
+        {
+            "id": 11,
+            "title": "Investing for Beginners",
+            "body": "Learn the basics of investing, including risk management and portfolio diversification.",
+            "category": "Finance",
+            "tags": [
+                "Investing",
+                "Finance",
+                "Wealth"
+            ],
+            "userId": 6,
+            "postedAt": 1736599200
+        },
+        {
+            "id": 12,
+            "title": "The Power of Meditation",
+            "body": "Meditation can help reduce stress and improve focus. Here's how to get started.",
+            "category": "Lifestyle",
+            "tags": [
+                "Meditation",
+                "Mindfulness",
+                "Health"
+            ],
+            "userId": 6,
+            "postedAt": 1736685600
+        },
+        {
+            "id": 13,
+            "title": "Cooking Made Simple",
+            "body": "Discover easy recipes and cooking techniques to make delicious meals at home.",
+            "category": "Food",
+            "tags": [
+                "Cooking",
+                "Recipes",
+                "Tips"
+            ],
+            "userId": 7,
+            "postedAt": 1736772000
+        },
+        {
+            "id": 14,
+            "title": "Fitness Tips for Beginners",
+            "body": "Start your fitness journey with these simple yet effective tips.",
+            "category": "Health",
+            "tags": [
+                "Fitness",
+                "Exercise",
+                "Beginner"
+            ],
+            "userId": 7,
+            "postedAt": 1736858400
+        },
+        {
+            "id": 15,
+            "title": "The Basics of Digital Marketing",
+            "body": "Understand the fundamentals of digital marketing and how to promote your business online.",
+            "category": "Business",
+            "tags": [
+                "Marketing",
+                "SEO",
+                "Online Business"
+            ],
+            "userId": 8,
+            "postedAt": 1736944800
+        },
+        {
+            "id": 16,
+            "title": "Saving Money Effectively",
+            "body": "Learn practical tips for saving money and building financial security.",
+            "category": "Finance",
+            "tags": [
+                "Saving",
+                "Budgeting",
+                "Tips"
+            ],
+            "userId": 8,
+            "postedAt": 1737031200
+        },
+        {
+            "id": 17,
+            "title": "The History of Space Exploration",
+            "body": "Take a journey through the milestones of space exploration and its impact on humanity.",
+            "category": "Science",
+            "tags": [
+                "Space",
+                "Exploration",
+                "History"
+            ],
+            "userId": 9,
+            "postedAt": 1737117600
+        },
+        {
+            "id": 18,
+            "title": "Effective Time Management",
+            "body": "Master time management skills to boost productivity and achieve your goals.",
+            "category": "Productivity",
+            "tags": [
+                "Time Management",
+                "Efficiency",
+                "Tips"
+            ],
+            "userId": 9,
+            "postedAt": 1737204000
+        },
+        {
+            "id": 19,
+            "title": "Understanding Blockchain Technology",
+            "body": "Explore how blockchain works and its applications beyond cryptocurrency.",
+            "category": "Technology",
+            "tags": [
+                "Blockchain",
+                "Innovation",
+                "Tech"
+            ],
+            "userId": 10,
+            "postedAt": 1737290400
+        },
+        {
+            "id": 20,
+            "title": "Gardening for Beginners",
+            "body": "Start your gardening journey with these simple tips for growing plants at home.",
+            "category": "Lifestyle",
+            "tags": [
+                "Gardening",
+                "Beginner",
+                "Tips"
+            ],
+            "userId": 10,
+            "postedAt": 1737376800
+        }
+    ]
+}
